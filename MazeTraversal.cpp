@@ -1,7 +1,7 @@
 /*
 Maze Traversal
 Author: Vedhas Walke
-Description: Given a 12x12 array of characters(that form a maze), traverse through 
+Description: Given ANY 12x12 array of characters(that form a maze), traverse through 
 			 from the left to the right side. Display the maze in every move.
 */
 #include <iostream>
